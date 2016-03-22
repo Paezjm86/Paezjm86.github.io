@@ -1,66 +1,43 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Martin Paez</title><description>&lt;Veamos la vida desde otra perspectiva&gt;</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 21 Mar 2016 22:53:20 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">649c962a-7479-44e9-8fdc-1bc186bc1161</guid><category>Getting Started</category><dc:creator>Martin Paez</dc:creator><pubDate>Wed, 16 Mar 2016 03:00:32 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Martin Paez</title><description>&lt;Veamos la vida desde otra perspectiva&gt;</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Tue, 22 Mar 2016 21:26:11 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>"Hoy decidi hacer la diferencia"</title><description>&lt;p&gt;Cualquiera puede sumar, llegar al resultado y facilitar la respuesta a los presentes; pero no cualquiera puede encontrar el verdadero &lt;em&gt;sentido, utilidad, transformación, evolución , fin y sentimiento&lt;/em&gt; en la acción. &lt;/p&gt;
 
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;En un mundo que cada vez requiere mas a gritos de nosotros, donde cada vez replicamos a nuestros semejantes, donde&lt;/p&gt;</description><link>http://localhost:2368/hoy-decidi-hacer-la-diferencia/</link><guid isPermaLink="false">f9faecdd-b59d-484c-b748-ea6ed1243d9f</guid><dc:creator>Martin Paez</dc:creator><pubDate>Tue, 22 Mar 2016 21:23:42 GMT</pubDate><content:encoded>&lt;p&gt;Cualquiera puede sumar, llegar al resultado y facilitar la respuesta a los presentes; pero no cualquiera puede encontrar el verdadero &lt;em&gt;sentido, utilidad, transformación, evolución , fin y sentimiento&lt;/em&gt; en la acción. &lt;/p&gt;
 
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
+&lt;p&gt;En un mundo que cada vez requiere mas a gritos de nosotros, donde cada vez replicamos a nuestros semejantes, donde nos impulsan a pensar menos y actuar por inercia, donde culturalmente nos vemos presionados a la aceptación y volver feliz a todos, me &lt;strong&gt;NIEGO&lt;/strong&gt; rotundamente a ser parte de ello.&lt;/p&gt;
 
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://images.unsplash.com/photo-1455329909767-7be9efff527d?crop=entropy&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=675&amp;amp;ixjsv=2.1.0&amp;amp;ixlib=rb-0.3.5&amp;amp;q=50&amp;amp;w=1300" alt="Rompiendo paradigamas"&gt; &lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;No es que sea único, pero algo dentro de mi esta inquieto y desesperado por hacer algo al respecto, por apreciar los pequeños pero inmensos detalles que nos rodean, que se pierden día a día. Donde prefiero ser una voz de minoría pero potente, con firmeza y distinción para poder &lt;em&gt;contagiar&lt;/em&gt; ideas que sumen, pero que sumen de verdad.&lt;/p&gt;
 
-&lt;p&gt;or with numbers!&lt;/p&gt;
+&lt;h2&gt;¿Que necesitas para enrolarte en ello?.&lt;/h2&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3&gt;Perspectiva del tiempo.&lt;/h3&gt;
 
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;p&gt;El tiempo debería ser la unidad mas temida y amada por todos. Desvaloramos esta unidad tan fácilmente que tarde o temprano le quedamos a deber realmente grandes saldos vencidos y acentuadas en una plataforma que poca veces entendemos. &lt;em&gt;¿Porque lo menciono?&lt;/em&gt; Porque la &lt;em&gt;Diferencia&lt;/em&gt; es  ahora, no ayer , ni mañana ….. ahora. Sin esta unidad en mente no se puede llevar a cabo. Tu mente colapsaria en un &lt;em&gt;loop infinito&lt;/em&gt; hermoso , vigoroso y estimulante como una droga que te lleva a mundos grandiosos pero inexistentes. Es muy fácil , demasiado fácil perderse en ello; si la procrastinacion es una acción peligrosa y altamente adictiva; el impulso gigantesco de ello sumado al compromiso personal , espiritual y social que te propongo lo eleva al cubo (No tienes idea lo fácil que es volar en tu mente, a 220 km/h , sin paracaídas y siendo inmortal, al no existir el miedo ante estas circunstancias es difícil salir de ello). Hay que enfrentarlo todo el tiempo.&lt;/p&gt;
 
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
+&lt;h3&gt;Mas allá de un enfoque, Fe.&lt;/h3&gt;
 
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
+&lt;p&gt;La fe mueve mundos, pero &lt;em&gt;¿Que es la fe?&lt;/em&gt;  Para mi es la union del amor, los deseos y pensamientos dominantes que ocupan tu mente. ¿Porque me refiero a ella y no la clásica &lt;em&gt;Misión y Visión&lt;/em&gt; que todos nos venden? Porque es necesario algo mas fuerte que tus ideas plasmadas en algún lugar de tu escritorio, necesitas inyectar esa &lt;em&gt;fusión&lt;/em&gt; de elementos que encontraras en la fe  Necesitas una fuente de recursos renovables e inagotable que solamente podemos encontrar en ella.  &lt;/p&gt;
 
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
+&lt;p&gt;No soy creyente de ninguna religión, pero analizando el concepto de &lt;em&gt;fe&lt;/em&gt; a medida de concentración de ideas tiene un impacto inmenso contra cualquier plan, cualquier ruta, cualquier mentor,que cualquier motivacion. Todo esto es necesario y ayuda enormemente, pero si no tienes la &lt;em&gt;fe&lt;/em&gt; predominando en cada paso que tomes y plan que ejecutes, no obtendrás el mismo impacto.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
+&lt;h3&gt;Prueba y error (Mucho mas de lo que imaginamos)&lt;/h3&gt;
 
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
+&lt;p&gt;Manos a la obra , hay que ejecutar. Quedarse en trance delante de una hoja, maquina o papel, pensando e imaginando tus grandes hazañas y logros es completamente todo lo contrario a lo que se pretende logra.&lt;/p&gt;
 
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
+&lt;p&gt;Todo inicio es feo, horrible y difícil , sumamente difícil. Pero si me escuchaste en los puntos anteriores, no te los saltaste y seguiste al pie de la letra tendrás las bases suficientes para iniciar y terminar, para ejecutar miles de pruebas, para que por cada error no te sientas mal, sonrías y te borres ese mal sabor de tropezar. Debemos estar mentalizados que los errores jamas dejaran de ocurrir pero que cada vez serán menores. Tu meta lo vale.&lt;/p&gt;
 
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!&lt;/p&gt;
+&lt;h3&gt;¿Y... aprendiste algo bueno? ahora enseñalo a los demás.&lt;/h3&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Ghost - Just a blogging platform&lt;/p&gt;
+&lt;p&gt;Si tienes el poder de dominar algo , te reto a que se lo enseñes a alguien mas. Te darás cuenta que en ese instantes te volviste a replantear algo que ya conocías pero que ahora lo veras tan claro y  transparente que te preguntaras ¿Porque nunca lo había visto y analizado de esta manera?. La obligación de transmitir conocimiento nos otorga un nuevo planteamiento de las ideas, ya que al no ser directamente para nosotros procedemos a desmenuzar  y esparcir las ideas con tal grandeza, detalle y agrado que se pueda transmitir mas fácilmente de lo que es tu percepción. Estas impulsándote al siguiente nivel de dominio para fortalecer a tus espectadores.&lt;/p&gt;
+
+&lt;p&gt;Es una de las mejores maneras de progreso &lt;em&gt;&lt;q&gt;ganar, ganar&lt;/q&gt;&lt;/em&gt; que he podido encontrar al día de hoy. Funciona , funciona enormemente y con grandes resultados para ambas partes. &lt;/p&gt;
+
+&lt;p&gt;El interactuar nunca ha sido tan necesario en nuestras vidas y pensar que el vivir por cuenta propia jamas se avanzaría igual que dentro de esta exclusiva jungla social en la que nos encontramos. Es un gran momento para compartir y el internet lo sabe.&lt;/p&gt;
+
+&lt;blockquote&gt;  
+&lt;p&gt;No hay acción pequeña que no pueda enardecer la vida de la humanidad si esta bien enfocada, encaminada y representada por un bien común.&lt;/p&gt;  
 &lt;/blockquote&gt;
 
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
+&lt;p&gt;Tengo cuatro años trabajando en ello, tratando de huir de mas de 20 años de costumbres, errores, acciones sin realizar, sufrimiento, &lt;em&gt;tiempo sin recuperar&lt;/em&gt;…. Me duele , he sufrido, he caminado, he corrido, me he caído, volvió a doler, pero vale la pena el viaje, vale mucho mas intentarlo y vale mucho mas el sonreír al final del día cuando ves lo resultados.&lt;/p&gt;
 
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
-
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
-
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
-
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Quiero agradecer a &lt;a href="https://twitter.com/Entusiasmadocom"&gt;Ivan&lt;/a&gt; por inspirarme para hacer este post. El alguna vez me pregunto que era todo eso que sábado con sábado voceaba en mi &lt;a href="https://twitter.com/paezjm86"&gt;Twitter&lt;/a&gt;. Es la mejor manera de recordarme (Mas de lo que ya me recuerdo día a día) e incrementar la fe necesaria para conseguir mis objetivos. &lt;/p&gt;</content:encoded></item></channel></rss>
